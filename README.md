@@ -11,7 +11,7 @@
 - I'm looking to collaborate in **open-source projects**
 - Yes, I'm **looking for job to develop my skills** and to contribute in
 - I love listening to **alternative music**, **travelling**, **playing bass guitar** and spending time with my wifey :woman: and dog :dog: we adopted from the shelter
-- I come from small town in Beskidy Mountains 🏠 & climbing is in my blood ⛰️⛰️⛰️
+- I come from small town in **Beskidy Mountains** 🏠 & **climbing** is in my blood ⛰️⛰️⛰️
 
 
 ### Hey, Recruiter! Are you looking for...
