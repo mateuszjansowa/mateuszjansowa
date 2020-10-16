@@ -10,7 +10,7 @@
 - I'm reading **tons of books** (not only programming ones!)
 - I'm looking to collaborate in **open-source projects**
 - Yes, I'm **looking for job to develop my skills** and to contribute in
-- I love listening to **alternative music**, **travelling**, **playing bass guitar** and spending time with my wifey :woman: and dog :dog:
+- I love listening to **alternative music**, **travelling**, **playing bass guitar** and spending time with my wifey :woman: and dog :dog: we adopted from the shelter
 
 
 ### Hey, Recruiter! Are you looking for...
