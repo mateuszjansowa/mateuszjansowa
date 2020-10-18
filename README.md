@@ -22,9 +22,12 @@
 - [x] ambitious
 - [x] quick-learning
 - [x] creative
+- [x] clear & communicative
+- [x] good teamworker
 - [ ] lazy
 - [ ] rude
 - [ ] conformist
+- [ ] biased
 ### ...person? You should definiately :envelope: me and *give me a chance* ✨
 
 <br/>
