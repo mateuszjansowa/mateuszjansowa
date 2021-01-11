@@ -75,4 +75,4 @@
 [linkedin]: https://www.linkedin.com/in/mateusz-sowa-720a721a8/
 [instagram]: https://www.instagram.com/msovva/?hl=pl
 [facebook]: https://www.facebook.com/xMatisx2
-[dev.to] https://dev.to/mateuszjansowa/pair-programming-a-start-guide-for-newbies-4k7c
+[dev.to]: https://dev.to/mateuszjansowa/pair-programming-a-start-guide-for-newbies-4k7c
