@@ -41,11 +41,6 @@
 
  LinkedIn Profile [<img align="left" alt="Mateusz Sowa LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  
- Maybe my Instagram? [<img align="left" alt="@msovva instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
- Or Facebook? [<img align="left" alt="Mateusz Sowa Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61045.svg" />][facebook]
-
-
 <br/>
 <br/>
 
