@@ -14,7 +14,7 @@
 - I come from small town in **Beskidy Mountains** 🏠 & **climbing** is in my blood ⛰️⛰️⛰️
 
 
-### Hey, Recruiter! Are you looking for...
+### Hey! Are you looking for...
 - [x] easy-going
 - [x] kind-hearted
 - [x] passionate
@@ -35,7 +35,7 @@
 ### :blue_heart:  You can find me on:
 <br/>
 
- Portfolio Website *(during construction*)* [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+Portfolio Website *(during construction*)* [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
  
  Dev.to blog [<img align="left" alt="Blog" width="22px" src="https://friconix.com/png/fi-swluxx-dev-to.png"/>][dev.to] 
 
@@ -45,6 +45,7 @@
 <br/>
 
 ### 🛠️ Languages and Tools I use on daily basis: 
+<br/>
 <br/>
 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
