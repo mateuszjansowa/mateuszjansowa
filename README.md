@@ -5,7 +5,7 @@
 <br/> 
 
 ### I am Aviation and Cosmonautics MEng :rocket: , Husband :church:, Developer :computer: and former Airline Pilot :airplane:
-- I'm currently during 6-months **Individual Front-end Development Course**
+- I've completed 6-months of **Individual Front-end Development Course**
 - I'm diving deep into **React**, **JavaScript** and **CSS**
 - I'm reading **tons of books** (not only programming ones!)
 - I'm looking to collaborate in **open-source projects**
