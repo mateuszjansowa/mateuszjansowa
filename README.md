@@ -1,6 +1,6 @@
 
-## Hi! :wave: I am Mateusz –*Front-end engineer*
-![Mateusz Sowa](https://raw.githubusercontent.com/mateuszjansowa/mateuszjansowa/master/00ADB5.jpg)
+## Mateusz Sowa
+![Mateusz Sowa](https://github.com/mateuszjansowa/mateuszjansowa/blob/master/Mateusz%20Sowa.png?raw=true)
 
 ### Latest posts
 🇵🇱 [Proxy Pattern in JS](https://devmentor.pl/b/wzorzec-projektowy-proxy-pelnomocnik)
