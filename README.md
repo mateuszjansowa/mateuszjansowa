@@ -1,6 +1,6 @@
 
 ## Mateusz Sowa
-![Mateusz Sowa](https://github.com/mateuszjansowa/mateuszjansowa/blob/master/Mateusz%20Sowa.png?raw=true)
+![Mateusz Sowa](https://github.com/mateuszjansowa/mateuszjansowa/blob/master/Mateusz%20Sowa%20(1).png?raw=true)
 
 ### Latest posts
 🇵🇱 [Proxy Pattern in JS](https://devmentor.pl/b/wzorzec-projektowy-proxy-pelnomocnik)
